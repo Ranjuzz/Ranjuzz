@@ -12,15 +12,11 @@ Welcome to my Repo
 
 ## Technology Stack
 
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 
 ## Stats
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=Ranjuzz&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="Ranjuzz" /></p>
-<a><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ranjuzz&theme=material-palenight&hide_border=false" alt="Ranjuzz" /></a>
-<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranjuzz&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Ranjuzz" /></a>
-
-![](https://github-profile-trophy.vercel.app/?username=Ranjuzz&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+<p><img src="https://github-readme-stats.vercel.app/api?username=Ranjuzz&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="Ranjuzz"/><a><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ranjuzz&theme=material-palenight&hide_border=false" alt="Ranjuzz" /></a></p>
 
 <!--
 **Ranjuzz/Ranjuzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

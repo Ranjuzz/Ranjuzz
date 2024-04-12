@@ -1,4 +1,6 @@
 ## Hi, I'm Ranjith
+I am Student from KPR Institute of engineering from Coimbatore, Tamil Nadu, India.
+
 Well! i don't have much to say about me now! I will update when i do something that is really great.
 
 [![](https://visitor-badge.laobi.icu/badge?page_id=Ranjuzz.Ranjuzz)](https://visitor-badge.laobi.icu/badge?page_id=Ranjuzz.Ranjuzz)

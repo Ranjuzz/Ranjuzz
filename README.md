@@ -1,5 +1,5 @@
 ## Hi, I'm Ranjith
-Welcome to my Repo
+Well! i don't have much to say about me now! I will update when i do something that is really great.
 
 [![](https://visitor-badge.laobi.icu/badge?page_id=Ranjuzz.Ranjuzz)](https://visitor-badge.laobi.icu/badge?page_id=Ranjuzz.Ranjuzz)
 [![Mail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:eryajf@163.com)](mailto:ranjiththangavel11@gmail.com)

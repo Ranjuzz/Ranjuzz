@@ -92,7 +92,7 @@ Quiz backend with PostgreSQL and Spring Boot, 99.9% uptime and fast API response
 
 ### 🏆 Achievements Summary
 
-#### Competed in **4 major events** spanning intra-college, state, national, and international levels.
+#### Competed in **4 major events** spanning intra-college, state and national levels.
 
 - 🥇 **1st place** in **Innovsense V2.0** (Intra-college level) at KPRIET, Coimbatore  
   Over **700 participants** across **100+ teams** competed.

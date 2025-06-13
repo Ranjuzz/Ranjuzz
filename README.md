@@ -82,7 +82,7 @@
 
 **🎬 Movie Booking App**  
 A full-stack booking app using Spring Boot, React.js, and MongoDB with JWT-based auth.  
-[GitHub Repo](#)  
+[GitHub Repo](https://GitHub.com/Ranjuzz/MovieBookingApp)  
 > Java · Spring Boot · MongoDB · JWT · React.js · Vite
 
 **📊 Quiz API Service**  

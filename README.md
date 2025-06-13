@@ -87,7 +87,7 @@ A full-stack booking app using Spring Boot, React.js, and MongoDB with JWT-based
 
 **📊 Quiz API Service**  
 Quiz backend with PostgreSQL and Spring Boot, 99.9% uptime and fast API response.  
-[GitHub Repo](#)  
+[GitHub Repo](https://github.com/Ranjuzz/SpringBoot_QuizApplication)  
 > Java · Spring Boot · PostgreSQL · JWT · REST APIs
 
 ### 🏆 Achievements Summary
